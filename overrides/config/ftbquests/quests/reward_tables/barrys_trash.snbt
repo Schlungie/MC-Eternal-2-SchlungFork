@@ -443,6 +443,49 @@
 		{ count: 4, item: "species:smoke_bomb" }
 		{ item: "species:birtday_cake" }
 		{ item: "species:cranktrap" }
+		{ count: 3, item: "betterarcheology:bomb" }
+		{ count: 7, item: "alexscaves:rusty_rebar" }
+		{ count: 4, item: "alexscaves:rusty_scrap_metal_plate" }
+		{ count: 5, item: "alexscaves:rusty_scrap_metal" }
+		{ item: "alexscaves:rusty_barrel" }
+		{ count: 8, item: "alexscaves:rusty_scaffolding" }
+		{
+			item: {
+				Count: 1
+				id: "iceandfire:silver_axe"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "veinmining:vein_mining"
+						lvl: 1s
+					}]
+					RepairCost: 1
+					display: {
+						Name: "{\"text\":\"Rusty Old Lumber Axe\"}"
+					}
+				}
+			}
+		}
+		{ count: 3, item: "brewinandchewin:ham_and_cheese_sandwich" }
+		{ item: "create:precision_mechanism" }
+		{ item: "immersive_aircraft:eco_engine" }
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:trumpet"
+				tag: {
+					enabled_tracks: [I; ]
+					melody: "immersive_melodies:melodies/cursed_mce2_theme.midi"
+					playing: 1b
+					start_time: 67639L
+				}
+			}
+		}
+		{ item: "immersive_machinery:tunnel_digger" }
+		{ item: "immersive_aircraft:nether_engine" }
+		{ item: "immersive_aircraft:rotary_cannon" }
+		{ item: "immersive_aircraft:boiler" }
+		{ item: "alshanex_familiars:rusty_helmet" }
 	]
 	title: "barry's trash"
 }
