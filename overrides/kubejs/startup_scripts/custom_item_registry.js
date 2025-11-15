@@ -1,12 +1,15 @@
 StartupEvents.registry("item", event => {
   
-  event.create('portable_wormhole_generator_inert').glow(false);
-  event.create('portable_wormhole_generator').glow(true);
+
+  
   event.create('unsigned_contract').glow(false);
   
   event.create('clipboard').displayName('§eClipboard').glow(false);
 
   event.create('dwarven_map').glow(true);
+
+  event.create('portable_wormhole_generator').displayName('§dPortable Wormhole Generator').glow(true);
+  event.create('portable_wormhole_generator_inert').displayName('§eInert Portable Wormhole Generator').glow(false);
 
   event.create('magic_map').glow(true);
 
