@@ -121,6 +121,7 @@ ItemEvents.tooltip(event => {
 	event.add('savageandravage:blast_proof_plates', Text.translate("tooltip.mce2.savageandravage.blast_proof_plates").color('#4F0D75'));
 	event.add('immersiveengineering:blastbrick_reinforced', Text.translate("tooltip.mce2.immersiveengineering.blastbrick_reinforced").color('#4F0D75'));
 	event.add('pneumaticcraft:reinforced_stone', Text.translate("tooltip.mce2.pneumaticcraft.reinforced_stone").color('#4F0D75'));
+	event.add('alshanex_familiars:mysterious_orb',  Text.translate('tooltip.mce2.alshanex_familiars.mysterious_orb').color('#FFFFFF'));
 	event.add('naturescompass:naturescompass', Text.translate("tooltip.mce2.naturescompass.naturescompass").color('#FFAA00'));
 	event.add('kubejs:loyalty_card_bm', Text.translate("tooltip.mce2.kubejs.loyalty_card_bm.1").color('#FFFFFF'));
 	event.add('kubejs:loyalty_card_curio', Text.translate("tooltip.mce2.kubejs.loyalty_card_curio.1").color('#FFFFFF'));
