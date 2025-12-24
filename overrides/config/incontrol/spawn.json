@@ -193,8 +193,8 @@
     "mod": "royalvariations",
     "when": "onjoin",
     "result": "allow",
-    "healthmultiply": 2.0,
-    "damagemultiply": 2.8,
+    "healthmultiply": 2.5,
+    "damagemultiply": 3.0,
     "speedmultiply": 1.4
   },
 
